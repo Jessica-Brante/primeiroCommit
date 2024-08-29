@@ -38,6 +38,10 @@ public class Pizzaria {
 		default:
 			System.out.println("Você seleciolou a opção invalida, por favor escolha aopção de 1 a 4");
 			break;
+			
+			uguhiuhi
+			
+		
 		}
 		
 
